@@ -1,0 +1,4 @@
+,Model Name,Test Accuracy Score,GS Model Name,GS Test Accuracy Score
+0,LogisticeRegression,0.9101123595505618,GS XGBoost,0.9135422602089269
+1,XGBoost,0.9101123595505618,GS LogisticRegression,0.9135232668566001
+2,RandomForest,0.8932584269662921,GS RandomForest,0.8954524487857821
