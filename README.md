@@ -29,10 +29,12 @@ Supervised learning - Classification - allows us to tell if something belongs to
     - Cleaning the text data and creating new features from existing dataset.
 6. Processing Data 3 (NLP)
     - NLP techniques
-7. Exploring Data
+7. Processing Data 4 (Clustering)
+    - An expoloration into clustering.  Taking out the 'target' column and seeing what happens as an unsupervised learning problems.
+8. Exploring Data
     - Using the data to find relationships between the dataset.
         - Looking into the target, gender, and comments.
-8. Modeling
+9. Modeling
     - All the prediction models using pipelines, PCA, and GridSearchCV
 
 ## Model Comparions
