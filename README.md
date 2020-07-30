@@ -59,7 +59,7 @@ ___
 
 # Results
 
-The best model with a 91% accuracy was LogisticRegression, when testing the models on the sample size, it resulted in 14 out of 18 correct results.  
+The best model with a 91% accuracy was LogisticRegression, when testing the models on the sample size, it resulted in 15 out of 18 correct results.  
 
 ___
 
